@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(255, 88, 219);
+}
+
+.rosa{
+    background-color: rgb(255, 88, 219);
+    margin: 50px;
+    padding: 10px;
+}
+
+
+
+.branco{
+    background-color: rgb(255, 255, 255);
+    padding: 50px;
+    margin: 10px;
+}
+
+
+
+.branco1{
+    background-color: rgb(255, 255, 255);
+    padding: 50px;
+    margin: 10px;
+    width: 120px;
+}
+
+
+
+.branco2{
+    background-color:  rgb(255, 255, 255);
+    padding: 50px;
+    margin: 10px;
+    padding-bottom: 180PX;
+}
+
+
+.flex{
+    display: flex;
+}
